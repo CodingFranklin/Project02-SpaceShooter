@@ -10,6 +10,7 @@ I used an extra asset that contains lots of different lasers. And by these asset
 I have added an in-game pause menu. It contains three buttons. Resume, Restart, and Quit.
 I have also added some background images for different scenes.
 The player's weapon is also a little bit different. Instead of small squares, I tried to use missiles that would initially have low velocity but accelerate very fast. It will destroy in 5 seconds.
+I also added the asteroid spawner and enemy spawner in order to have a constant playing experience.
 
 ## References
 Kenney Assets: https://kenney.nl/assets/space-shooter-redux
@@ -21,6 +22,7 @@ Explosion: https://opengameart.org/content/explosion-sheet
 Background Images: Free pixel art from the browser
 
 ## Future Development
+To be continued...
 
 ## Created by
 Franklin Pu
